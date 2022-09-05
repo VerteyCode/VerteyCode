@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VerteyCode
+- 👀 I’m interested in star wars and DC
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on websites in the future
+- @discord is Vertey#8985 
